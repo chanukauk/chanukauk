@@ -48,6 +48,7 @@ I'm an AI Engineer with a background in **Computational Physics**, specialising 
   <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NVIDIA_DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 </p>
 
 **Cloud & Infrastructure**
@@ -55,7 +56,6 @@ I'm an AI Engineer with a background in **Computational Physics**, specialising 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA_DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>

@@ -1,96 +1,67 @@
-<h1 align="center">Don Chanuka Udayanga Karawita</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img src="assets/profile-light.svg" alt="From physics to intelligent systems: agentic AI, computer vision, and computational research." width="100%">
+</picture>
 
-<p align="center">
-  <b>AI Engineer · Computational Physicist · Researcher</b><br/>
-  🌏 Colombo, Sri Lanka &nbsp;|&nbsp; 🤝 Working remotely with DartxTool Pty Ltd, Sydney 🇦🇺
-</p>
+# Chanuka Karawita
 
-<p align="center">
-  <a href="mailto:cu9428@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/chanuka-karawita-105319111"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+**AI Engineer · Agentic AI · Computer Vision**<br>
+Colombo, Sri Lanka
 
----
+I build intelligent systems with a foundation in computational physics, bringing together machine learning, agent workflows, and the study of complex networks. My work spans applied AI engineering and research into how local interactions shape large-scale behaviour.
 
-## 🧠 About Me
+[Email](mailto:cu9428@gmail.com) · [LinkedIn](https://linkedin.com/in/chanuka-karawita-105319111) · [Research](https://link.springer.com/article/10.1007/s13278-025-01512-0)
 
-I'm an AI Engineer with a background in **Computational Physics**, specialising in building intelligent systems that span agentic AI, computer vision, and network science.
+## What I've worked on
 
-- 🤖 Currently engineering **multi-agent LLM workflows** (LangGraph, CrewAI) and deploying on **AWS Bedrock** at DartxTool Pty Ltd
-- 📡 Previously built **real-time multi-camera surveillance systems** with NVIDIA DeepStream + YOLOv8 at BooleanLab
-- 🍃 Developed deep learning models for **tea grade classification** and generative image editing (StyleGAN) at Pekoe Pte Ltd
-- 📄 **2× Published Researcher** — work published in *Social Network Analysis and Mining* (Springer Nature, 2025) and *ICMAS 2021*
-- 🎓 BSc in Computational Physics, University of Colombo
+- **Agentic AI:** Built multi-agent LLM workflows with LangGraph and CrewAI, internal MCP servers, and AWS Bedrock AgentCore integrations at **DartxTool Pty Ltd**.
+- **Computer vision:** Developed real-time video analytics with NVIDIA DeepStream and YOLO at **Booleanlabs**.
+- **Applied deep learning:** Worked on tea grade classification and StyleGAN-based image editing at **Pekoe.ai**.
 
----
+## Selected projects
 
-## 🚀 Tech Stack
+### [Learning Rate Heterogeneity](https://github.com/chanukauk/Learning_Rate_Heterogeneity_in_Bounded_Rationality)
 
-**Languages**
+Explore how differences in learning rates influence the structure of socio-economic networks. Research code connects bounded rationality, adaptive networks, and emergent behaviour.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+`Python` · `Network science` · `Quantal Response Equilibrium`<br>
+[Read the paper →](https://link.springer.com/article/10.1007/s13278-025-01512-0)
 
-**AI / ML**
+### [ShallowXception](https://github.com/chanukauk/ShallowXception)
 
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NVIDIA_DeepStream-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
+A shallow Xception-based architecture with selectable depths and pretrained weight transfer for image classification.
 
-**Cloud & Infrastructure**
+`Python` · `TensorFlow` · `Computer vision`
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### [Monte Carlo · 3D Heisenberg Model](https://github.com/chanukauk/Monte-Carlo-Simulation-for-the-3D-Heisenberg-Model)
 
----
+Monte Carlo simulation of the 3D Heisenberg spin model, connecting numerical methods with statistical physics.
 
-## 📌 Featured Projects
+`C++` · `Monte Carlo simulation` · `Computational physics`
 
-| Project | Description | Tech |
-|---|---|---|
-| [Learning Rate Heterogeneity](https://github.com/chanukauk/Learning_Rate_Heterogeneity_in_Bounded_Rationality) | Codebase for Springer Nature paper on emergent topological properties in socio-economic networks via QRE framework | Python, NetworkX |
-| [ShallowXception](https://github.com/chanukauk/ShallowXception) | Lightweight Xception-based deep learning architecture | Python, PyTorch |
-| [Monte Carlo – 3D Heisenberg Model](https://github.com/chanukauk/Monte-Carlo-Simulation-for-the-3D-Heisenberg-Model) | High-performance Monte Carlo simulation for the 3D Heisenberg spin model | C++ |
+## Research & education
+
+**[Exploring Emergent Topological Properties in Socio-Economic Networks through Learning Heterogeneity](https://link.springer.com/article/10.1007/s13278-025-01512-0)**<br>
+*Social Network Analysis and Mining* · 16, Article 16 (2026) · [Preprint](https://arxiv.org/abs/2510.24107)
+
+**[Machine-learning-assisted Classification of Thermodynamic Phases in the Classical Heisenberg Antiferromagnet on a Triangular Lattice](https://science.cmb.ac.lk/icmas2021/wp-content/uploads/2021/12/Conference-Proceedings-ICMAS-2021.pdf)**<br>
+Conference abstract · ICMAS 2021
+
+**BSc (Special) in Computational Physics** · University of Colombo
+
+## Toolkit
+
+![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-334155?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-334155?style=flat-square&logo=tensorflow&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-334155?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-334155?style=flat-square&logo=opencv&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-334155?style=flat-square)
+
+**Agent systems:** LangChain, LangGraph, CrewAI, AWS Bedrock<br>
+**Vision & learning:** PyTorch, TensorFlow, OpenCV, NVIDIA DeepStream, YOLO<br>
+**Engineering:** Python, C++, Go, JavaScript, FastAPI, SQL, MongoDB
 
 ---
 
-## 📄 Publications
-
-- **Exploring emergent topological properties in socio-economic networks through learning heterogeneity**  
-  *Social Network Analysis and Mining, Vol. 16, Article No. 16 · Springer Nature · 2025*
-
-- **Machine learning phase transitions in the classical Heisenberg antiferromagnet on a triangular lattice**  
-  *International Conference on Multidisciplinary Approaches in Science (ICMAS) · 2021*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chanukauk&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanukauk&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-<p align="center">
-  <i>"Bridging physics intuition and modern AI — from spin models to language models."</i>
-</p>
+Interested in agentic AI, computer vision, or computational research? [Let's connect on LinkedIn](https://linkedin.com/in/chanuka-karawita-105319111) or [send me an email](mailto:cu9428@gmail.com).

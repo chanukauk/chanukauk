@@ -51,14 +51,41 @@ Conference abstract · ICMAS 2021
 
 ## Toolkit
 
-![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-334155?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-334155?style=flat-square&logo=tensorflow&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-334155?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-334155?style=flat-square&logo=opencv&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-334155?style=flat-square)
+**Languages & development**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI & computer vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+
+**Cloud & infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=flat-square&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+
+**AWS services**
+
+![Bedrock AgentCore](https://img.shields.io/badge/Bedrock_AgentCore-232F3E?style=flat-square)
+![SageMaker](https://img.shields.io/badge/SageMaker-146EB4?style=flat-square)
+![Lambda](https://img.shields.io/badge/Lambda-D86613?style=flat-square)
+![EC2](https://img.shields.io/badge/EC2-D86613?style=flat-square)
+![S3](https://img.shields.io/badge/S3-3F8624?style=flat-square)
+![Textract](https://img.shields.io/badge/Textract-146EB4?style=flat-square)
 
 ### AWS & cloud deployment
 

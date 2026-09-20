@@ -57,12 +57,15 @@ Conference abstract · ICMAS 2021
 ![LangGraph](https://img.shields.io/badge/LangGraph-334155?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/OpenCV-334155?style=flat-square&logo=opencv&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-334155?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 ### AWS & cloud deployment
 
 - **Agentic AI:** Amazon Bedrock AgentCore for deploying agentic applications.
 - **Model training:** Amazon SageMaker and distributed training with PyTorch Distributed Data Parallel (DDP).
 - **Compute & deployment:** AWS Batch, App Runner, Lambda, and Amazon EC2.
+- **Containers & infrastructure as code:** Docker and Terraform.
 - **Storage, APIs & databases:** Amazon S3, API Gateway, and RDS.
 - **Document intelligence:** Amazon Textract for text and layout extraction from scanned documents.
 

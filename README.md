@@ -53,54 +53,61 @@ Conference abstract · ICMAS 2021
 
 **Languages & development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p>
+  <img src="assets/toolkit/python.svg" width="48" height="48" alt="Python" title="Python">&nbsp;
+  <img src="assets/toolkit/cplusplus.svg" width="48" height="48" alt="C++" title="C++">&nbsp;
+  <img src="assets/toolkit/go.svg" width="48" height="48" alt="Go" title="Go">&nbsp;
+  <img src="assets/toolkit/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">&nbsp;
+  <img src="assets/toolkit/matlab.svg" width="48" height="48" alt="MATLAB" title="MATLAB">&nbsp;
+  <img src="assets/toolkit/git.svg" width="48" height="48" alt="Git" title="Git">&nbsp;
+</p>
 
 **AI & computer vision**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
+<p>
+  <img src="assets/toolkit/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch">&nbsp;
+  <img src="assets/toolkit/tensorflow.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow">&nbsp;
+  <img src="assets/toolkit/scikitlearn.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn">&nbsp;
+  <img src="assets/toolkit/opencv.svg" width="48" height="48" alt="OpenCV" title="OpenCV">&nbsp;
+  <img src="assets/toolkit/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain">&nbsp;
+  <img src="assets/toolkit/langgraph.svg" width="48" height="48" alt="LangGraph" title="LangGraph">&nbsp;
+</p>
 
 **Cloud & infrastructure**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-00684A?style=flat-square&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+<p>
+  <img src="assets/toolkit/amazonwebservices.svg" width="48" height="48" alt="AWS" title="AWS">&nbsp;
+  <img src="assets/toolkit/docker.svg" width="48" height="48" alt="Docker" title="Docker">&nbsp;
+  <img src="assets/toolkit/terraform.svg" width="48" height="48" alt="Terraform" title="Terraform">&nbsp;
+  <img src="assets/toolkit/fastapi.svg" width="48" height="48" alt="FastAPI" title="FastAPI">&nbsp;
+  <img src="assets/toolkit/mongodb.svg" width="48" height="48" alt="MongoDB" title="MongoDB">&nbsp;
+  <img src="assets/toolkit/linux.svg" width="48" height="48" alt="Linux" title="Linux">&nbsp;
+</p>
 
 **AWS services**
 
-![Bedrock AgentCore](https://img.shields.io/badge/Bedrock_AgentCore-232F3E?style=flat-square)
-![SageMaker](https://img.shields.io/badge/SageMaker-146EB4?style=flat-square)
-![Lambda](https://img.shields.io/badge/Lambda-D86613?style=flat-square)
-![EC2](https://img.shields.io/badge/EC2-D86613?style=flat-square)
-![S3](https://img.shields.io/badge/S3-3F8624?style=flat-square)
-![Textract](https://img.shields.io/badge/Textract-146EB4?style=flat-square)
+![Bedrock AgentCore](https://img.shields.io/badge/Bedrock_AgentCore-232F3E?style=for-the-badge)
+![SageMaker](https://img.shields.io/badge/SageMaker-146EB4?style=for-the-badge)
+![Lambda](https://img.shields.io/badge/Lambda-D86613?style=for-the-badge)
+![EC2](https://img.shields.io/badge/EC2-D86613?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-3F8624?style=for-the-badge)
+![Textract](https://img.shields.io/badge/Textract-146EB4?style=for-the-badge)
+
+<p><img src="assets/toolkit/dynamodb.svg" width="48" height="48" alt="Amazon DynamoDB" title="Amazon DynamoDB"> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge" alt="DynamoDB"></p>
 
 ### AWS & cloud deployment
 
 - **Agentic AI:** Amazon Bedrock AgentCore for deploying agentic applications.
-- **Model training:** Amazon SageMaker and distributed training with PyTorch Distributed Data Parallel (DDP).
+- **Model training:** Amazon SageMaker.
 - **Compute & deployment:** AWS Batch, App Runner, Lambda, and Amazon EC2.
 - **Containers & infrastructure as code:** Docker and Terraform.
-- **Storage, APIs & databases:** Amazon S3, API Gateway, and RDS.
+- **Storage, APIs & databases:** Amazon S3, API Gateway, Amazon DynamoDB, and RDS.
 - **Document intelligence:** Amazon Textract for text and layout extraction from scanned documents.
 
 ### AI & scientific computing
 
 - **Agent systems:** LangChain, LangGraph, CrewAI, and MCP servers for internal data sources.
 - **Deep learning & vision:** PyTorch, TensorFlow, Keras, OpenCV, NVIDIA DeepStream, YOLO, CNNs, and vision transformers.
-- **Representation & generative learning:** Contrastive learning, Siamese networks, StyleGAN2-ADA, and GANSpace for latent-space editing.
 - **Data & modelling:** NumPy, SciPy, pandas, scikit-learn, statsmodels, NetworkX, and Optuna.
 - **Visualisation:** Matplotlib and Seaborn.
 - **Speech & NLP:** Kaldi, spaCy, NLTK, and hidden Markov models.

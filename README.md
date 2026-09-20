@@ -58,9 +58,28 @@ Conference abstract · ICMAS 2021
 ![OpenCV](https://img.shields.io/badge/OpenCV-334155?style=flat-square&logo=opencv&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-334155?style=flat-square)
 
-**Agent systems:** LangChain, LangGraph, CrewAI, AWS Bedrock<br>
-**Vision & learning:** PyTorch, TensorFlow, OpenCV, NVIDIA DeepStream, YOLO<br>
-**Engineering:** Python, C++, Go, JavaScript, FastAPI, SQL, MongoDB
+### AWS & cloud deployment
+
+- **Agentic AI:** Amazon Bedrock AgentCore for deploying agentic applications.
+- **Model training:** Amazon SageMaker and distributed training with PyTorch Distributed Data Parallel (DDP).
+- **Compute & deployment:** AWS Batch, App Runner, Lambda, and Amazon EC2.
+- **Storage, APIs & databases:** Amazon S3, API Gateway, and RDS.
+- **Document intelligence:** Amazon Textract for text and layout extraction from scanned documents.
+
+### AI & scientific computing
+
+- **Agent systems:** LangChain, LangGraph, CrewAI, and MCP servers for internal data sources.
+- **Deep learning & vision:** PyTorch, TensorFlow, Keras, OpenCV, NVIDIA DeepStream, YOLO, CNNs, and vision transformers.
+- **Representation & generative learning:** Contrastive learning, Siamese networks, StyleGAN2-ADA, and GANSpace for latent-space editing.
+- **Data & modelling:** NumPy, SciPy, pandas, scikit-learn, statsmodels, NetworkX, and Optuna.
+- **Visualisation:** Matplotlib and Seaborn.
+- **Speech & NLP:** Kaldi, spaCy, NLTK, and hidden Markov models.
+
+### Software & ML tooling
+
+- **Languages:** Python, C++, Go, JavaScript, MATLAB, and SQL.
+- **Applications & databases:** FastAPI, Angular, Ionic, MongoDB, and MySQL.
+- **Development & reproducibility:** Git, Linux, Bash scripting, and DVC for dataset versioning and reproducible ML pipelines.
 
 ---
 

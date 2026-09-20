@@ -8,7 +8,7 @@
 **AI Engineer · Agentic AI · Computer Vision**<br>
 Colombo, Sri Lanka
 
-I build intelligent systems with a foundation in computational physics, bringing together machine learning, agent workflows, and the study of complex networks. My work spans applied AI engineering and research into how local interactions shape large-scale behaviour.
+I’m an AI engineer with a background in computational physics, building agentic AI workflows, computer vision applications, and cloud-based machine learning systems. My research explores phase transitions and how learning behaviour shapes complex networks.
 
 [Email](mailto:cu9428@gmail.com) · [LinkedIn](https://linkedin.com/in/chanuka-karawita-105319111) · [Research](https://link.springer.com/article/10.1007/s13278-025-01512-0)
 

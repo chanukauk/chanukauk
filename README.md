@@ -54,53 +54,53 @@ Conference abstract · ICMAS 2021
 **Languages & development**
 
 <p>
-  <img src="assets/toolkit/python.svg" width="48" height="48" alt="Python" title="Python">&nbsp;
-  <img src="assets/toolkit/cplusplus.svg" width="48" height="48" alt="C++" title="C++">&nbsp;
-  <img src="assets/toolkit/go.svg" width="48" height="48" alt="Go" title="Go">&nbsp;
-  <img src="assets/toolkit/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript">&nbsp;
-  <img src="assets/toolkit/matlab.svg" width="48" height="48" alt="MATLAB" title="MATLAB">&nbsp;
-  <img src="assets/toolkit/git.svg" width="48" height="48" alt="Git" title="Git">&nbsp;
+  <img src="assets/toolkit/python.svg" width="64" height="64" alt="Python" title="Python">&ensp;
+  <img src="assets/toolkit/cplusplus.svg" width="64" height="64" alt="C++" title="C++">&ensp;
+  <img src="assets/toolkit/go.svg" width="64" height="64" alt="Go" title="Go">&ensp;
+  <img src="assets/toolkit/javascript.svg" width="64" height="64" alt="JavaScript" title="JavaScript">&ensp;
+  <img src="assets/toolkit/matlab.svg" width="64" height="64" alt="MATLAB" title="MATLAB">&ensp;
+  <img src="assets/toolkit/git.svg" width="64" height="64" alt="Git" title="Git">&ensp;
 </p>
 
 **AI & computer vision**
 
 <p>
-  <img src="assets/toolkit/pytorch.svg" width="48" height="48" alt="PyTorch" title="PyTorch">&nbsp;
-  <img src="assets/toolkit/tensorflow.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow">&nbsp;
-  <img src="assets/toolkit/scikitlearn.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn">&nbsp;
-  <img src="assets/toolkit/opencv.svg" width="48" height="48" alt="OpenCV" title="OpenCV">&nbsp;
-  <img src="assets/toolkit/langchain.svg" width="48" height="48" alt="LangChain" title="LangChain">&nbsp;
-  <img src="assets/toolkit/langgraph.svg" width="48" height="48" alt="LangGraph" title="LangGraph">&nbsp;
+  <img src="assets/toolkit/pytorch.svg" width="64" height="64" alt="PyTorch" title="PyTorch">&ensp;
+  <img src="assets/toolkit/tensorflow.svg" width="64" height="64" alt="TensorFlow" title="TensorFlow">&ensp;
+  <img src="assets/toolkit/scikitlearn.svg" width="64" height="64" alt="scikit-learn" title="scikit-learn">&ensp;
+  <img src="assets/toolkit/opencv.svg" width="64" height="64" alt="OpenCV" title="OpenCV">&ensp;
+  <img src="assets/toolkit/langchain.svg" width="64" height="64" alt="LangChain" title="LangChain">&ensp;
+  <img src="assets/toolkit/langgraph.svg" width="64" height="64" alt="LangGraph" title="LangGraph">&ensp;
 </p>
 
 **Cloud & infrastructure**
 
 <p>
-  <img src="assets/toolkit/amazonwebservices.svg" width="48" height="48" alt="AWS" title="AWS">&nbsp;
-  <img src="assets/toolkit/docker.svg" width="48" height="48" alt="Docker" title="Docker">&nbsp;
-  <img src="assets/toolkit/terraform.svg" width="48" height="48" alt="Terraform" title="Terraform">&nbsp;
-  <img src="assets/toolkit/fastapi.svg" width="48" height="48" alt="FastAPI" title="FastAPI">&nbsp;
-  <img src="assets/toolkit/mongodb.svg" width="48" height="48" alt="MongoDB" title="MongoDB">&nbsp;
-  <img src="assets/toolkit/linux.svg" width="48" height="48" alt="Linux" title="Linux">&nbsp;
+  <img src="assets/toolkit/amazonwebservices.svg" width="64" height="64" alt="AWS" title="AWS">&ensp;
+  <img src="assets/toolkit/docker.svg" width="64" height="64" alt="Docker" title="Docker">&ensp;
+  <img src="assets/toolkit/terraform.svg" width="64" height="64" alt="Terraform" title="Terraform">&ensp;
+  <img src="assets/toolkit/fastapi.svg" width="64" height="64" alt="FastAPI" title="FastAPI">&ensp;
+  <img src="assets/toolkit/mongodb.svg" width="64" height="64" alt="MongoDB" title="MongoDB">&ensp;
+  <img src="assets/toolkit/linux.svg" width="64" height="64" alt="Linux" title="Linux">&ensp;
 </p>
 
 **AWS services**
 
 <table>
   <tr>
-    <td align="center"><img src="assets/aws/agentcore.svg" width="48" height="48" alt="Bedrock AgentCore"><br><sub>Bedrock AgentCore</sub></td>
-    <td align="center"><img src="assets/aws/sagemaker.svg" width="48" height="48" alt="SageMaker"><br><sub>SageMaker</sub></td>
-    <td align="center"><img src="assets/aws/lambda.svg" width="48" height="48" alt="Lambda"><br><sub>Lambda</sub></td>
-    <td align="center"><img src="assets/aws/ec2.svg" width="48" height="48" alt="EC2"><br><sub>EC2</sub></td>
-    <td align="center"><img src="assets/aws/s3.svg" width="48" height="48" alt="S3"><br><sub>S3</sub></td>
-    <td align="center"><img src="assets/aws/dynamodb.svg" width="48" height="48" alt="DynamoDB"><br><sub>DynamoDB</sub></td>
+    <td align="center"><img src="assets/aws/agentcore.svg" width="64" height="64" alt="Bedrock AgentCore"><br>Bedrock AgentCore</td>
+    <td align="center"><img src="assets/aws/sagemaker.svg" width="64" height="64" alt="SageMaker"><br>SageMaker</td>
+    <td align="center"><img src="assets/aws/lambda.svg" width="64" height="64" alt="Lambda"><br>Lambda</td>
+    <td align="center"><img src="assets/aws/ec2.svg" width="64" height="64" alt="EC2"><br>EC2</td>
+    <td align="center"><img src="assets/aws/s3.svg" width="64" height="64" alt="S3"><br>S3</td>
+    <td align="center"><img src="assets/aws/dynamodb.svg" width="64" height="64" alt="DynamoDB"><br>DynamoDB</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/aws/textract.svg" width="48" height="48" alt="Textract"><br><sub>Textract</sub></td>
-    <td align="center"><img src="assets/aws/api-gateway.svg" width="48" height="48" alt="API Gateway"><br><sub>API Gateway</sub></td>
-    <td align="center"><img src="assets/aws/rds.svg" width="48" height="48" alt="RDS"><br><sub>RDS</sub></td>
-    <td align="center"><img src="assets/aws/batch.svg" width="48" height="48" alt="Batch"><br><sub>Batch</sub></td>
-    <td align="center"><img src="assets/aws/app-runner.svg" width="48" height="48" alt="App Runner"><br><sub>App Runner</sub></td>
+    <td align="center"><img src="assets/aws/textract.svg" width="64" height="64" alt="Textract"><br>Textract</td>
+    <td align="center"><img src="assets/aws/api-gateway.svg" width="64" height="64" alt="API Gateway"><br>API Gateway</td>
+    <td align="center"><img src="assets/aws/rds.svg" width="64" height="64" alt="RDS"><br>RDS</td>
+    <td align="center"><img src="assets/aws/batch.svg" width="64" height="64" alt="Batch"><br>Batch</td>
+    <td align="center"><img src="assets/aws/app-runner.svg" width="64" height="64" alt="App Runner"><br>App Runner</td>
     <td></td>
   </tr>
 </table>

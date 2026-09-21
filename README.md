@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
-  <img src="assets/profile-light.svg" alt="From physics to intelligent systems: agentic AI, computer vision, and computational research." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.gif">
+  <img src="assets/profile-light.gif" alt="Chanuka Karawita — from physics to intelligent systems. A spin lattice transforms into a neural network." width="100%">
 </picture>
 
 # Chanuka Karawita

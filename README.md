@@ -86,14 +86,24 @@ Conference abstract · ICMAS 2021
 
 **AWS services**
 
-![Bedrock AgentCore](https://img.shields.io/badge/Bedrock_AgentCore-232F3E?style=for-the-badge)
-![SageMaker](https://img.shields.io/badge/SageMaker-146EB4?style=for-the-badge)
-![Lambda](https://img.shields.io/badge/Lambda-D86613?style=for-the-badge)
-![EC2](https://img.shields.io/badge/EC2-D86613?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-3F8624?style=for-the-badge)
-![Textract](https://img.shields.io/badge/Textract-146EB4?style=for-the-badge)
-
-<p><img src="assets/toolkit/dynamodb.svg" width="48" height="48" alt="Amazon DynamoDB" title="Amazon DynamoDB"> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge" alt="DynamoDB"></p>
+<table>
+  <tr>
+    <td align="center"><img src="assets/aws/agentcore.svg" width="48" height="48" alt="Bedrock AgentCore"><br><sub>Bedrock AgentCore</sub></td>
+    <td align="center"><img src="assets/aws/sagemaker.svg" width="48" height="48" alt="SageMaker"><br><sub>SageMaker</sub></td>
+    <td align="center"><img src="assets/aws/lambda.svg" width="48" height="48" alt="Lambda"><br><sub>Lambda</sub></td>
+    <td align="center"><img src="assets/aws/ec2.svg" width="48" height="48" alt="EC2"><br><sub>EC2</sub></td>
+    <td align="center"><img src="assets/aws/s3.svg" width="48" height="48" alt="S3"><br><sub>S3</sub></td>
+    <td align="center"><img src="assets/aws/dynamodb.svg" width="48" height="48" alt="DynamoDB"><br><sub>DynamoDB</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/aws/textract.svg" width="48" height="48" alt="Textract"><br><sub>Textract</sub></td>
+    <td align="center"><img src="assets/aws/api-gateway.svg" width="48" height="48" alt="API Gateway"><br><sub>API Gateway</sub></td>
+    <td align="center"><img src="assets/aws/rds.svg" width="48" height="48" alt="RDS"><br><sub>RDS</sub></td>
+    <td align="center"><img src="assets/aws/batch.svg" width="48" height="48" alt="Batch"><br><sub>Batch</sub></td>
+    <td align="center"><img src="assets/aws/app-runner.svg" width="48" height="48" alt="App Runner"><br><sub>App Runner</sub></td>
+    <td></td>
+  </tr>
+</table>
 
 ### AWS & cloud deployment
 

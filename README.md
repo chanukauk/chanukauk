@@ -51,7 +51,7 @@ Conference abstract · ICMAS 2021
 
 ## Toolkit
 
-**Languages & development**
+**Languages**
 
 <p>
   <img src="assets/toolkit/python.svg" width="64" height="64" alt="Python" title="Python">&ensp;
@@ -59,29 +59,65 @@ Conference abstract · ICMAS 2021
   <img src="assets/toolkit/go.svg" width="64" height="64" alt="Go" title="Go">&ensp;
   <img src="assets/toolkit/javascript.svg" width="64" height="64" alt="JavaScript" title="JavaScript">&ensp;
   <img src="assets/toolkit/matlab.svg" width="64" height="64" alt="MATLAB" title="MATLAB">&ensp;
-  <img src="assets/toolkit/git.svg" width="64" height="64" alt="Git" title="Git">&ensp;
 </p>
 
-**AI & computer vision**
+**Agents & NLP**
+
+<p>
+  <img src="assets/toolkit/langchain.svg" width="64" height="64" alt="LangChain" title="LangChain">&ensp;
+  <img src="assets/toolkit/langgraph.svg" width="64" height="64" alt="LangGraph" title="LangGraph">&ensp;
+  <img src="assets/toolkit/crewai.svg" width="64" height="64" alt="CrewAI" title="CrewAI">&ensp;
+  <img src="assets/toolkit/modelcontextprotocol.svg" width="64" height="64" alt="MCP" title="MCP">&ensp;
+  <img src="assets/toolkit/spacy.svg" width="64" height="64" alt="spaCy" title="spaCy">&ensp;
+  <img src="assets/toolkit/kaldi.svg" width="64" height="64" alt="Kaldi" title="Kaldi">&ensp;
+</p>
+
+**ML & computer vision**
 
 <p>
   <img src="assets/toolkit/pytorch.svg" width="64" height="64" alt="PyTorch" title="PyTorch">&ensp;
   <img src="assets/toolkit/tensorflow.svg" width="64" height="64" alt="TensorFlow" title="TensorFlow">&ensp;
+  <img src="assets/toolkit/keras.svg" width="64" height="64" alt="Keras" title="Keras">&ensp;
   <img src="assets/toolkit/scikitlearn.svg" width="64" height="64" alt="scikit-learn" title="scikit-learn">&ensp;
   <img src="assets/toolkit/opencv.svg" width="64" height="64" alt="OpenCV" title="OpenCV">&ensp;
-  <img src="assets/toolkit/langchain.svg" width="64" height="64" alt="LangChain" title="LangChain">&ensp;
-  <img src="assets/toolkit/langgraph.svg" width="64" height="64" alt="LangGraph" title="LangGraph">&ensp;
+  <img src="assets/toolkit/yolo.svg" width="64" height="64" alt="YOLO" title="YOLO">&ensp;
 </p>
 
-**Cloud & infrastructure**
+**Scientific computing**
+
+<p>
+  <img src="assets/toolkit/numpy.svg" width="64" height="64" alt="NumPy" title="NumPy">&ensp;
+  <img src="assets/toolkit/scipy.svg" width="64" height="64" alt="SciPy" title="SciPy">&ensp;
+  <img src="assets/toolkit/pandas.svg" width="64" height="64" alt="pandas" title="pandas">&ensp;
+  <img src="assets/toolkit/networkx.svg" width="64" height="64" alt="NetworkX" title="NetworkX">&ensp;
+  <img src="assets/toolkit/optuna.svg" width="64" height="64" alt="Optuna" title="Optuna">&ensp;
+  <img src="assets/toolkit/matplotlib.svg" width="64" height="64" alt="Matplotlib" title="Matplotlib">&ensp;
+</p>
+
+**Applications & data**
+
+<p>
+  <img src="assets/toolkit/fastapi.svg" width="64" height="64" alt="FastAPI" title="FastAPI">&ensp;
+  <img src="assets/toolkit/angular.svg" width="64" height="64" alt="Angular" title="Angular">&ensp;
+  <img src="assets/toolkit/ionic.svg" width="64" height="64" alt="Ionic" title="Ionic">&ensp;
+  <img src="assets/toolkit/mongodb.svg" width="64" height="64" alt="MongoDB" title="MongoDB">&ensp;
+  <img src="assets/toolkit/mysql.svg" width="64" height="64" alt="MySQL" title="MySQL">&ensp;
+  <img src="assets/toolkit/clickhouse.svg" width="64" height="64" alt="ClickHouse" title="ClickHouse">&ensp;
+</p>
+
+**Infrastructure & tooling**
 
 <p>
   <img src="assets/toolkit/amazonwebservices.svg" width="64" height="64" alt="AWS" title="AWS">&ensp;
   <img src="assets/toolkit/docker.svg" width="64" height="64" alt="Docker" title="Docker">&ensp;
   <img src="assets/toolkit/terraform.svg" width="64" height="64" alt="Terraform" title="Terraform">&ensp;
-  <img src="assets/toolkit/fastapi.svg" width="64" height="64" alt="FastAPI" title="FastAPI">&ensp;
-  <img src="assets/toolkit/mongodb.svg" width="64" height="64" alt="MongoDB" title="MongoDB">&ensp;
+  <img src="assets/toolkit/git.svg" width="64" height="64" alt="Git" title="Git">&ensp;
   <img src="assets/toolkit/linux.svg" width="64" height="64" alt="Linux" title="Linux">&ensp;
+  <img src="assets/toolkit/bash.svg" width="64" height="64" alt="Bash" title="Bash">&ensp;
+</p>
+
+<p>
+  <img src="assets/toolkit/dvc.svg" width="64" height="64" alt="DVC" title="DVC">&ensp;
 </p>
 
 **AWS services**
@@ -126,6 +162,7 @@ Conference abstract · ICMAS 2021
 
 - **Languages:** Python, C++, Go, JavaScript, MATLAB, and SQL.
 - **Applications & databases:** FastAPI, Angular, Ionic, MongoDB, and MySQL.
+- **Data warehouse & analytics:** ClickHouse.
 - **Development & reproducibility:** Git, Linux, Bash scripting, and DVC for dataset versioning and reproducible ML pipelines.
 
 ---

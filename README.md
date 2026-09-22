@@ -16,7 +16,7 @@ I’m an AI engineer with a background in computational physics, building agenti
 
 - **Agentic AI:** Built multi-agent LLM workflows with LangGraph and CrewAI, internal MCP servers, and AWS Bedrock AgentCore integrations at **DartxTool Pty Ltd**.
 - **Computer vision:** Developed real-time video analytics with NVIDIA DeepStream and YOLO at **Booleanlabs**.
-- **Visual representation learning:** Worked on contrastive learning, image processing, and controllable image generation using StyleGAN2-ADA and GANSpace at **Pekoe.ai**.
+- **Visual representation learning:** Worked on contrastive learning, image processing, and controllable image generation at **Pekoe.ai**.
 
 ## Selected projects
 

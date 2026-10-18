@@ -8,7 +8,7 @@
 **AI Engineer · Agentic AI · Computer Vision**<br>
 Colombo, Sri Lanka
 
-I’m an AI engineer with a background in computational physics, building agentic AI workflows, computer vision applications, and cloud-based machine learning systems. My research explores phase transitions and how learning behaviour shapes complex networks.
+I’m an AI engineer with a background in computational physics, building agentic AI workflows, computer vision applications, and cloud-based machine learning systems.
 
 [Email](mailto:cu9428@gmail.com) · [LinkedIn](https://linkedin.com/in/chanuka-karawita-105319111) · [Research](https://scholar.google.com/citations?user=OCmU8DwAAAAJ&hl=en)
 
@@ -131,7 +131,7 @@ Conference abstract · ICMAS 2021
 
 ### AI & scientific computing
 
-- **Agent systems:** LangChain, LangGraph, CrewAI, and MCP servers for internal data sources.
+- **Agent systems:** LangChain, LangGraph, LangSmith, CrewAI, and MCP servers for internal data sources.
 - **Deep learning & vision:** PyTorch, TensorFlow, Keras, OpenCV, NVIDIA DeepStream, YOLO, CNNs, and vision transformers.
 - **Data & modelling:** NumPy, SciPy, pandas, scikit-learn, statsmodels, NetworkX, and Optuna.
 - **Visualisation:** Matplotlib and Seaborn.

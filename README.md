@@ -10,7 +10,7 @@ Colombo, Sri Lanka
 
 I’m an AI engineer with a background in computational physics, building agentic AI workflows, computer vision applications, and cloud-based machine learning systems. My research explores phase transitions and how learning behaviour shapes complex networks.
 
-[Email](mailto:cu9428@gmail.com) · [LinkedIn](https://linkedin.com/in/chanuka-karawita-105319111) · [Research](https://link.springer.com/article/10.1007/s13278-025-01512-0)
+[Email](mailto:cu9428@gmail.com) · [LinkedIn](https://linkedin.com/in/chanuka-karawita-105319111) · [Research](https://scholar.google.com/citations?user=OCmU8DwAAAAJ&hl=en)
 
 ## What I build
 

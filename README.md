@@ -18,34 +18,15 @@ I’m an AI engineer with a background in computational physics, building agenti
 - **Computer vision:** Developed real-time video analytics with NVIDIA DeepStream and YOLO at **Booleanlabs**.
 - **Visual representation learning:** Worked on contrastive learning, image processing, and controllable image generation at **Pekoe.ai**.
 
-## Selected projects
-
-### [Learning Rate Heterogeneity](https://github.com/chanukauk/Learning_Rate_Heterogeneity_in_Bounded_Rationality)
-
-Explore how differences in learning rates influence the structure of socio-economic networks. Research code connects bounded rationality, adaptive networks, and emergent behaviour.
-
-`Python` · `Network science` · `Quantal Response Equilibrium`<br>
-[Read the paper →](https://link.springer.com/article/10.1007/s13278-025-01512-0)
-
-### [ShallowXception](https://github.com/chanukauk/ShallowXception)
-
-A shallow Xception-based architecture with selectable depths and pretrained weight transfer for image classification.
-
-`Python` · `TensorFlow` · `Computer vision`
-
-### [Monte Carlo · 3D Heisenberg Model](https://github.com/chanukauk/Monte-Carlo-Simulation-for-the-3D-Heisenberg-Model)
-
-Monte Carlo simulation of the 3D Heisenberg spin model, connecting numerical methods with statistical physics.
-
-`C++` · `Monte Carlo simulation` · `Computational physics`
-
-## Research & education
+## Research
 
 **[Exploring Emergent Topological Properties in Socio-Economic Networks through Learning Heterogeneity](https://link.springer.com/article/10.1007/s13278-025-01512-0)**<br>
 *Social Network Analysis and Mining* · 16, Article 16 (2026) · [Preprint](https://arxiv.org/abs/2510.24107)
 
 **[Machine-learning-assisted Classification of Thermodynamic Phases in the Classical Heisenberg Antiferromagnet on a Triangular Lattice](https://science.cmb.ac.lk/icmas2021/wp-content/uploads/2021/12/Conference-Proceedings-ICMAS-2021.pdf)**<br>
 Conference abstract · ICMAS 2021
+
+## Education
 
 **BSc (Special) in Computational Physics** · University of Colombo
 

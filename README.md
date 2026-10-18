@@ -10,13 +10,13 @@ Colombo, Sri Lanka
 
 I’m an AI engineer with a background in computational physics, building agentic AI workflows, computer vision applications, and cloud-based machine learning systems.
 
-[Email](mailto:cu9428@gmail.com) · [LinkedIn](https://linkedin.com/in/chanuka-karawita-105319111) · [Research](https://scholar.google.com/citations?user=OCmU8DwAAAAJ&hl=en)
+[Email](mailto:cu9428@gmail.com) · [LinkedIn](https://linkedin.com/in/chanuka-karawita-105319111) · [Google Scholar](https://scholar.google.com/citations?user=OCmU8DwAAAAJ&hl=en)
 
 ## What I build
 
 - **Agentic AI systems:** Conversational agents and multi-agent workflows, with custom MCP integrations and deployment on AWS.
 - **Computer vision applications:** Real-time video analytics, image processing, and visual recognition systems.
-- **Machine learning solutions:** Contrastive learning, visual representation learning, and controllable image generation.
+- **Visual representation learning:** Contrastive learning, visual representation learning, and controllable image generation.
 - **AI-powered backends:** APIs and document-processing services that connect models, data, and cloud infrastructure.
 
 ## Research

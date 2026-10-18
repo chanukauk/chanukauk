@@ -43,6 +43,8 @@ Conference abstract · ICMAS 2021
   <img src="assets/toolkit/matlab.svg" width="64" height="64" alt="MATLAB" title="MATLAB">&ensp;
 </p>
 
+Python · C++ · Go · JavaScript · MATLAB
+
 **Agents & NLP**
 
 <p>
@@ -53,6 +55,8 @@ Conference abstract · ICMAS 2021
   <img src="assets/toolkit/modelcontextprotocol.svg" width="64" height="64" alt="MCP" title="MCP">&ensp;
   <img src="assets/toolkit/spacy.svg" width="64" height="64" alt="spaCy" title="spaCy">&ensp;
 </p>
+
+LangChain · LangGraph · LangSmith · CrewAI · MCP · spaCy
 
 **ML & computer vision**
 
@@ -65,6 +69,8 @@ Conference abstract · ICMAS 2021
   <img src="assets/toolkit/yolo.svg" width="64" height="64" alt="YOLO" title="YOLO">&ensp;
 </p>
 
+PyTorch · TensorFlow · Keras · scikit-learn · OpenCV · YOLO
+
 **Scientific computing**
 
 <p>
@@ -76,6 +82,8 @@ Conference abstract · ICMAS 2021
   <img src="assets/toolkit/matplotlib.svg" width="64" height="64" alt="Matplotlib" title="Matplotlib">&ensp;
 </p>
 
+NumPy · SciPy · pandas · NetworkX · Optuna · Matplotlib
+
 **Applications & data**
 
 <p>
@@ -84,6 +92,8 @@ Conference abstract · ICMAS 2021
   <img src="assets/toolkit/mysql.svg" width="64" height="64" alt="MySQL" title="MySQL">&ensp;
   <img src="assets/toolkit/clickhouse.svg" width="64" height="64" alt="ClickHouse" title="ClickHouse">&ensp;
 </p>
+
+FastAPI · MongoDB · MySQL · ClickHouse
 
 **Infrastructure & tooling**
 
@@ -96,30 +106,45 @@ Conference abstract · ICMAS 2021
   <img src="assets/toolkit/bash.svg" width="64" height="64" alt="Bash" title="Bash">&ensp;
 </p>
 
+AWS · Docker · Terraform · Git · Linux · Bash
+
 <p>
   <img src="assets/toolkit/dvc.svg" width="64" height="64" alt="DVC" title="DVC">&ensp;
 </p>
+
+DVC
 
 **AWS services**
 
 <table>
   <tr>
-    <td align="center"><img src="assets/aws/agentcore.svg" width="64" height="64" alt="Bedrock AgentCore"><br>Bedrock AgentCore</td>
-    <td align="center"><img src="assets/aws/sagemaker.svg" width="64" height="64" alt="SageMaker"><br>SageMaker</td>
-    <td align="center"><img src="assets/aws/lambda.svg" width="64" height="64" alt="Lambda"><br>Lambda</td>
-    <td align="center"><img src="assets/aws/ec2.svg" width="64" height="64" alt="EC2"><br>EC2</td>
-    <td align="center"><img src="assets/aws/s3.svg" width="64" height="64" alt="S3"><br>S3</td>
-    <td align="center"><img src="assets/aws/dynamodb.svg" width="64" height="64" alt="DynamoDB"><br>DynamoDB</td>
+    <td align="center"><img src="assets/aws/agentcore.svg" width="64" height="64" alt=""><br>Bedrock AgentCore</td>
+    <td align="center"><img src="assets/aws/sagemaker.svg" width="64" height="64" alt=""><br>SageMaker</td>
   </tr>
   <tr>
-    <td align="center"><img src="assets/aws/textract.svg" width="64" height="64" alt="Textract"><br>Textract</td>
-    <td align="center"><img src="assets/aws/api-gateway.svg" width="64" height="64" alt="API Gateway"><br>API Gateway</td>
-    <td align="center"><img src="assets/aws/rds.svg" width="64" height="64" alt="RDS"><br>RDS</td>
-    <td align="center"><img src="assets/aws/batch.svg" width="64" height="64" alt="Batch"><br>Batch</td>
-    <td align="center"><img src="assets/aws/app-runner.svg" width="64" height="64" alt="App Runner"><br>App Runner</td>
+    <td align="center"><img src="assets/aws/lambda.svg" width="64" height="64" alt=""><br>Lambda</td>
+    <td align="center"><img src="assets/aws/ec2.svg" width="64" height="64" alt=""><br>EC2</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/aws/s3.svg" width="64" height="64" alt=""><br>S3</td>
+    <td align="center"><img src="assets/aws/dynamodb.svg" width="64" height="64" alt=""><br>DynamoDB</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/aws/textract.svg" width="64" height="64" alt=""><br>Textract</td>
+    <td align="center"><img src="assets/aws/api-gateway.svg" width="64" height="64" alt=""><br>API Gateway</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/aws/rds.svg" width="64" height="64" alt=""><br>RDS</td>
+    <td align="center"><img src="assets/aws/batch.svg" width="64" height="64" alt=""><br>Batch</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/aws/app-runner.svg" width="64" height="64" alt=""><br>App Runner</td>
     <td></td>
   </tr>
 </table>
+
+<details>
+<summary>Detailed toolkit and AWS experience</summary>
 
 ### AWS & cloud deployment
 
@@ -144,6 +169,8 @@ Conference abstract · ICMAS 2021
 - **Applications & databases:** FastAPI, MongoDB, and MySQL.
 - **Data warehouse & analytics:** ClickHouse.
 - **Development & reproducibility:** Git, Linux, Bash scripting, and DVC for dataset versioning and reproducible ML pipelines.
+
+</details>
 
 ---
 

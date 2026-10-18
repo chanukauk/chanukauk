@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/physics-to-ai-dark-unlabelled.gif">
-  <img src="assets/physics-to-ai-light-unlabelled.gif" alt="Chanuka Karawita — from physics to intelligent systems. A spin lattice transforms into a neural network." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img src="assets/profile-light.svg" alt="Chanuka Karawita — from physics to intelligent systems." width="100%">
 </picture>
 
 # Chanuka Karawita
@@ -69,7 +69,6 @@ Conference abstract · ICMAS 2021
   <img src="assets/toolkit/crewai.svg" width="64" height="64" alt="CrewAI" title="CrewAI">&ensp;
   <img src="assets/toolkit/modelcontextprotocol.svg" width="64" height="64" alt="MCP" title="MCP">&ensp;
   <img src="assets/toolkit/spacy.svg" width="64" height="64" alt="spaCy" title="spaCy">&ensp;
-  <img src="assets/toolkit/kaldi.svg" width="64" height="64" alt="Kaldi" title="Kaldi">&ensp;
 </p>
 
 **ML & computer vision**
@@ -98,8 +97,6 @@ Conference abstract · ICMAS 2021
 
 <p>
   <img src="assets/toolkit/fastapi.svg" width="64" height="64" alt="FastAPI" title="FastAPI">&ensp;
-  <img src="assets/toolkit/angular.svg" width="64" height="64" alt="Angular" title="Angular">&ensp;
-  <img src="assets/toolkit/ionic.svg" width="64" height="64" alt="Ionic" title="Ionic">&ensp;
   <img src="assets/toolkit/mongodb.svg" width="64" height="64" alt="MongoDB" title="MongoDB">&ensp;
   <img src="assets/toolkit/mysql.svg" width="64" height="64" alt="MySQL" title="MySQL">&ensp;
   <img src="assets/toolkit/clickhouse.svg" width="64" height="64" alt="ClickHouse" title="ClickHouse">&ensp;
@@ -156,12 +153,12 @@ Conference abstract · ICMAS 2021
 - **Deep learning & vision:** PyTorch, TensorFlow, Keras, OpenCV, NVIDIA DeepStream, YOLO, CNNs, and vision transformers.
 - **Data & modelling:** NumPy, SciPy, pandas, scikit-learn, statsmodels, NetworkX, and Optuna.
 - **Visualisation:** Matplotlib and Seaborn.
-- **Speech & NLP:** Kaldi, spaCy, NLTK, and hidden Markov models.
+- **Speech & NLP:** spaCy, NLTK, and hidden Markov models.
 
 ### Software & ML tooling
 
 - **Languages:** Python, C++, Go, JavaScript, MATLAB, and SQL.
-- **Applications & databases:** FastAPI, Angular, Ionic, MongoDB, and MySQL.
+- **Applications & databases:** FastAPI, MongoDB, and MySQL.
 - **Data warehouse & analytics:** ClickHouse.
 - **Development & reproducibility:** Git, Linux, Bash scripting, and DVC for dataset versioning and reproducible ML pipelines.
 

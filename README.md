@@ -48,6 +48,7 @@ Conference abstract · ICMAS 2021
 <p>
   <img src="assets/toolkit/langchain.svg" width="64" height="64" alt="LangChain" title="LangChain">&ensp;
   <img src="assets/toolkit/langgraph.svg" width="64" height="64" alt="LangGraph" title="LangGraph">&ensp;
+  <img src="assets/toolkit/langsmith.svg" width="64" height="64" alt="LangSmith" title="LangSmith">&ensp;
   <img src="assets/toolkit/crewai.svg" width="64" height="64" alt="CrewAI" title="CrewAI">&ensp;
   <img src="assets/toolkit/modelcontextprotocol.svg" width="64" height="64" alt="MCP" title="MCP">&ensp;
   <img src="assets/toolkit/spacy.svg" width="64" height="64" alt="spaCy" title="spaCy">&ensp;

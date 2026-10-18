@@ -24,3 +24,5 @@ The original SVG artwork is scaled into a 64 px tile with a rounded background. 
 - ClickHouse: [clickhouse](https://raw.githubusercontent.com/devicons/devicon/master/icons/clickhouse/clickhouse-original.svg)
 - Bash: [bash](https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg)
 - DVC: [dvc](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dvc.svg)
+
+- LangSmith: [Lobe Icons](https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-svg/icons/langsmith.svg), MIT license (included in LICENSE-lobe-icons.txt).

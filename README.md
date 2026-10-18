@@ -12,11 +12,12 @@ I’m an AI engineer with a background in computational physics, building agenti
 
 [Email](mailto:cu9428@gmail.com) · [LinkedIn](https://linkedin.com/in/chanuka-karawita-105319111) · [Research](https://link.springer.com/article/10.1007/s13278-025-01512-0)
 
-## What I've worked on
+## What I build
 
-- **Agentic AI:** Built multi-agent LLM workflows with LangGraph and CrewAI, internal MCP servers, and AWS Bedrock AgentCore integrations at **DartxTool Pty Ltd**.
-- **Computer vision:** Developed real-time video analytics with NVIDIA DeepStream and YOLO at **Booleanlabs**.
-- **Visual representation learning:** Worked on contrastive learning, image processing, and controllable image generation at **Pekoe.ai**.
+- **Agentic AI systems:** Conversational agents and multi-agent workflows, with custom MCP integrations and deployment on AWS.
+- **Computer vision applications:** Real-time video analytics, image processing, and visual recognition systems.
+- **Machine learning solutions:** Contrastive learning, visual representation learning, and controllable image generation.
+- **AI-powered backends:** APIs and document-processing services that connect models, data, and cloud infrastructure.
 
 ## Research
 

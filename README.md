@@ -120,24 +120,16 @@ DVC
   <tr>
     <td align="center"><img src="assets/aws/agentcore.svg" width="64" height="64" alt=""><br>Bedrock AgentCore</td>
     <td align="center"><img src="assets/aws/sagemaker.svg" width="64" height="64" alt=""><br>SageMaker</td>
-  </tr>
-  <tr>
     <td align="center"><img src="assets/aws/lambda.svg" width="64" height="64" alt=""><br>Lambda</td>
     <td align="center"><img src="assets/aws/ec2.svg" width="64" height="64" alt=""><br>EC2</td>
-  </tr>
-  <tr>
     <td align="center"><img src="assets/aws/s3.svg" width="64" height="64" alt=""><br>S3</td>
     <td align="center"><img src="assets/aws/dynamodb.svg" width="64" height="64" alt=""><br>DynamoDB</td>
   </tr>
   <tr>
     <td align="center"><img src="assets/aws/textract.svg" width="64" height="64" alt=""><br>Textract</td>
     <td align="center"><img src="assets/aws/api-gateway.svg" width="64" height="64" alt=""><br>API Gateway</td>
-  </tr>
-  <tr>
     <td align="center"><img src="assets/aws/rds.svg" width="64" height="64" alt=""><br>RDS</td>
     <td align="center"><img src="assets/aws/batch.svg" width="64" height="64" alt=""><br>Batch</td>
-  </tr>
-  <tr>
     <td align="center"><img src="assets/aws/app-runner.svg" width="64" height="64" alt=""><br>App Runner</td>
     <td></td>
   </tr>
